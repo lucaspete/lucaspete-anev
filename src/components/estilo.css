@@ -1,0 +1,27 @@
+.color1{
+    background-color: rgba(255,0,0,0.5);
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+  }
+
+.caixa{
+    text-align: center;
+    padding: 10px;
+    color: black;
+    size: 50px;
+}
+  
+.botaum{
+    margin-right: 10px !important;
+    background-color: #000000 !important;
+    color : white !important;
+}
+
+.color2{
+    background-color: #000000 !important;
+    color : white !important;
+}
